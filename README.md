@@ -1,5 +1,5 @@
 # Machine Learning Demystified
-A weekly workshop series at ITP to teach machine learning with a focus on deep learning
+A weekly workshop series at NYU ITP to teach machine learning with a focus on deep learning
 
 ## Week1
 
