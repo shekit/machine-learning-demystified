@@ -30,12 +30,12 @@ A weekly workshop series at NYU ITP to teach machine learning with a focus on de
    - Type: `source activate tensor`
    - You should see (tensor) prepended before your terminal prompt
 
-#### 4) Install dependencies
+#### 5) Install dependencies
    - Make sure you can see (tensor) prepended before the terminal prompt before proceeding
    - Type: `conda install numpy matplotlib jupyter`
    - Type: `y` (and press Enter)
 
-#### 5) Install Tensor Flow
+#### 6) Install Tensor Flow
    - In the same terminal window type: `pip install tensorflow` 
    - If the above command gives an error (it shows up in red color in your terminal **only then** do the following):
      - Type: `pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl`
