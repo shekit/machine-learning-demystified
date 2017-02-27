@@ -9,7 +9,7 @@ A weekly workshop series at NYU ITP to teach machine learning with a focus on de
    - Choose Python 3.6 Mac OSX 64-bit (bash installer) and download
    
 #### 2) Open Terminal
-   - Type: `cd /path/to/the/file/you/just/downloaded`
+   - Type: `bash /path/to/the/file/you/just/downloaded`
    - You can just drag the bash file you download into your terminal window from where you installed it
    - Press `Enter` to continue
    - Review the license and approve the license terms - type in `yes` and press enter
