@@ -1,2 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
+test.ipynb
+week2/MNIST_data/
+*/__pycache__
