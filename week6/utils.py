@@ -1,3 +1,5 @@
+import numpy as np
+
 def sample(preds, temperature=1.0):
     # helper function to sample an index from a probability array
     preds = np.asarray(preds).astype('float64')
