@@ -1,4 +1,4 @@
-from scipy.misc import imread
+from matplotlib.image import imread
 import numpy as np
 
 def prepImage(file):
