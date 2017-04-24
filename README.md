@@ -34,6 +34,7 @@ A weekly workshop series at NYU ITP to teach machine learning with a focus on de
    - Make sure you can see (tensor) prepended before the terminal prompt before proceeding
    - Type: `conda install numpy matplotlib jupyter`
    - Type: `y` (and press Enter)
+   - Type: `pip install nltk gensim keras gym`
 
 #### 6) Install Tensor Flow
    - In the same terminal window type: `pip install tensorflow` 
